@@ -1,4 +1,4 @@
-App made in .NET Core
+Web API made in .NET Core
 
 
 ### Request
