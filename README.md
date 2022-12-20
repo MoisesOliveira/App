@@ -1,8 +1,9 @@
-Web API made in .NET Core
+Web API feita em .NET Core
 
 
 ### Request
-Give a unsorted array of names and get one sorted back.
+
+Dê um array não ordenados de nomes e receba um ordenado de volta.
 
 
 `GET /sort/`
