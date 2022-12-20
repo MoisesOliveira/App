@@ -1,4 +1,3 @@
-# App
 App made in .NET Core
 
 
